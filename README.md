@@ -243,16 +243,6 @@ client = genai.Client(
 )
 ```
 
-### ⚠️ Important
-
-**Never upload your real API key to GitHub.**
-
-Do not commit API keys, passwords, tokens, or other private credentials.
-
-For a public repository, it is recommended to keep your API key outside the source code using an environment variable or another secure configuration method.
-
----
-
 ## ▶️ Running KAI
 
 Activate your virtual environment:
