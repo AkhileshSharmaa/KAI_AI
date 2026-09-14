@@ -387,7 +387,7 @@ This project is open source and available for learning, experimentation, and per
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Akhileshs Sharma**
 
 Built with Python and Google Gemini.
 
